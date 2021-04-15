@@ -174,7 +174,7 @@ for url in all_bread_recipe_urls:
     with open('../Staging/' + recipe_name + ".json", 'w') as outfile:
         json.dump(recipe_json, outfile)
 
-    print("File written. Uploading to Snowflake")
+    print("File written. Uploading to Snowflake...")
 
     upload_to_snowflake(recipe_name)
     print("Waiting 5 seconds")
