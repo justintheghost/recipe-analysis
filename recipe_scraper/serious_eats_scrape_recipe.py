@@ -137,9 +137,9 @@ def upload_to_snowflake(recipe_name):
     # TO DO: Move to secure location
     print("Establishing connection with Snowflake")
     conn = snowflake.connector.connect( 
-            user="JKOLPAK"
-            ,password="goWest123!"
-            ,account="kl81254"
+            user="a"
+            ,password="b!"
+            ,account="c"
             ,warehouse="COMPUTE_WH"
             ,database="DBT_POC"
             ,schema="RECIPE")
