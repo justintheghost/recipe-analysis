@@ -45,7 +45,7 @@ def get_unit_from_prediction(prediction_formatted):
 
 recipe_input_raw = "1 egg, beaten with 1 tablespoon water, for egg wash"
 print(prep.sentence_format_for_crf(recipe_input_raw))
-prediction = sentence_predict_label(recipe_input_raw,"recipetagging-v5.crfsuite" )
+prediction = sentence_predict_label(recipe_input_raw,"models/recipetagging-v5.crfsuite" )
 
 formatted = format_prediction(recipe_input_raw, prediction)
 

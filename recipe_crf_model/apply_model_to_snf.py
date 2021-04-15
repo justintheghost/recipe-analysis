@@ -13,9 +13,9 @@ import recipe_crf_model_data_prep as prep
 
 
 conn = snf.connect( 
-            user="JKOLPAK"
-            ,password="goWest123!"
-            ,account="kl81254"
+            user="a"
+            ,password="b!"
+            ,account="c"
             ,warehouse="COMPUTE_WH"
             ,database="DBT_POC"
             ,schema="RECIPE")
