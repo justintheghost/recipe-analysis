@@ -1,11 +1,9 @@
 # Recipe Analysis with Python, dbt, and Snowflake 
 
-This project extracts recipe data from www.SeriousEats.com and prepares it for analysis.
+Exploring the underlying structure of recipes from www.seriouseats.com. First use case is to understanding the [Baker's Percentage](https://www.kingarthurbaking.com/pro/reference/bakers-percentage) of bread recipes. 
 
-## Installation
-
-
-## Usage
-
-
-## Contributing
+Project uses:
+* Python BeautifulSoup for webscraping
+* Python crfsuite for natural language processing (NLP)
+* dbt for SQL-based data transforms
+* Snowflake for data persistence 
