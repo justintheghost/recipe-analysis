@@ -1,0 +1,26 @@
+
+version: 2
+
+models:
+    - name: RECIPE_INGREDIENT
+      description: "Flattens JSON data into ingredient grain."
+      columns:
+          - name: RECIPE_NAME
+            description: "Name of recipe"
+            tests:
+                - unique
+                - not_null
+          - name: INGREDIENT_NAME
+            description: "Name of Ingredient"
+            tests:
+                - not_null
+          - name: RECIPE_SECTION
+            description: "If multiple sections of ingredients on recipe, displays section. Otherwise, is left NULL."
+            tests:
+                - unique
+                - not_null
+          - name: ETL_LAST_UPDATED
+            description: "Metadata on when data was last updated."
+            tests:
+                - unique
+                - not_null                              

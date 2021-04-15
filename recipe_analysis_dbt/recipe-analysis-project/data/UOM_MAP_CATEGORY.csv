@@ -1,0 +1,9 @@
+UOM_MAP_CATEGORY_ID,UNIT_OF_MEASUREMENT,CATEGORY
+1,gram,weight
+2,cup,volume
+3,ounce,weight
+4,tablespoon,volume
+5,teaspoon,volume
+6,pound,weight
+7,quart,volume
+8,pint,volume

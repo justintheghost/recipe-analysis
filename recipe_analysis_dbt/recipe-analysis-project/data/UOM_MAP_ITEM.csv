@@ -1,0 +1,201 @@
+UOM_MAP_ITEM_ID,SOURCE_UNIT,SOURCE_UNIT_CATEGORY,SOURCE_INGREDIENT,DESTINATION_UNIT,DESTINATION_UNIT_CATEGORY,CONVERSION_FACTOR
+1,teaspoon,volume,bread flour,gram,weight,2.5
+2,tablespoon,volume,bread flour,gram,weight,7.5
+3,cup,volume,bread flour,gram,weight,120
+4,teaspoon,volume,olive oil,gram,weight,4.166666667
+5,tablespoon,volume,olive oil,gram,weight,12.5
+6,cup,volume,olive oil,gram,weight,200
+7,teaspoon,volume,salt and pepper,gram,weight,2.666666667
+8,tablespoon,volume,salt and pepper,gram,weight,8
+9,cup,volume,salt and pepper,gram,weight,128
+10,teaspoon,volume,vanilla extract,gram,weight,4.666666667
+11,tablespoon,volume,vanilla extract,gram,weight,14
+12,cup,volume,vanilla extract,gram,weight,224
+13,teaspoon,volume,whole wheat flour,gram,weight,2.354166667
+14,tablespoon,volume,whole wheat flour,gram,weight,7.0625
+15,cup,volume,whole wheat flour,gram,weight,113
+16,teaspoon,volume,cake flour,gram,weight,2.5
+17,tablespoon,volume,cake flour,gram,weight,7.5
+18,cup,volume,cake flour,gram,weight,120
+19,teaspoon,volume,all purpose flour,gram,weight,2.5
+20,tablespoon,volume,all purpose flour,gram,weight,7.5
+21,cup,volume,all purpose flour,gram,weight,120
+22,teaspoon,volume,rye flour,gram,weight,2.208333333
+23,tablespoon,volume,rye flour,gram,weight,6.625
+24,cup,volume,rye flour,gram,weight,106
+25,teaspoon,volume,bread flour,gram,weight,2.5
+26,tablespoon,volume,bread flour,gram,weight,7.5
+27,cup,volume,bread flour,gram,weight,120
+28,teaspoon,volume,almond flour,gram,weight,2
+29,tablespoon,volume,almond flour,gram,weight,6
+30,cup,volume,almond flour,gram,weight,96
+31,teaspoon,volume,rice flour,gram,weight,2.958333333
+32,tablespoon,volume,rice flour,gram,weight,8.875
+33,cup,volume,rice flour,gram,weight,142
+34,teaspoon,volume,cornmeal flour,gram,weight,2.875
+35,tablespoon,volume,cornmeal flour,gram,weight,8.625
+36,cup,volume,cornmeal flour,gram,weight,138
+37,teaspoon,volume,spelt flour,gram,weight,2.0625
+38,tablespoon,volume,spelt flour,gram,weight,6.1875
+39,cup,volume,spelt flour,gram,weight,99
+40,teaspoon,volume,millet four,gram,weight,2.854166667
+41,tablespoon,volume,millet four,gram,weight,8.5625
+42,cup,volume,millet four,gram,weight,137
+43,teaspoon,volume,oat flour,gram,weight,1.916666667
+44,tablespoon,volume,oat flour,gram,weight,5.75
+45,cup,volume,oat flour,gram,weight,92
+46,teaspoon,volume,00 flour,gram,weight,2.416666667
+47,tablespoon,volume,00 flour,gram,weight,7.25
+48,cup,volume,00 flour,gram,weight,116
+49,teaspoon,volume,tapioca flour,gram,weight,2.354166667
+50,tablespoon,volume,tapioca flour,gram,weight,7.0625
+51,cup,volume,tapioca flour,gram,weight,113
+52,teaspoon,volume,semolina flour,gram,weight,3.395833333
+53,tablespoon,volume,semolina flour,gram,weight,10.1875
+54,cup,volume,semolina flour,gram,weight,163
+55,teaspoon,volume,sorghum flour,gram,weight,2.875
+56,tablespoon,volume,sorghum flour,gram,weight,8.625
+57,cup,volume,sorghum flour,gram,weight,138
+58,teaspoon,volume,potato flour,gram,weight,3.833333333
+59,tablespoon,volume,potato flour,gram,weight,11.5
+60,cup,volume,potato flour,gram,weight,184
+61,teaspoon,volume,teff flour,gram,weight,2.8125
+62,tablespoon,volume,teff flour,gram,weight,8.4375
+63,cup,volume,teff flour,gram,weight,135
+64,teaspoon,volume,powdered sugar,gram,weight,4.729166667
+65,tablespoon,volume,powdered sugar,gram,weight,14.1875
+66,cup,volume,powdered sugar,gram,weight,227
+67,teaspoon,volume,cane sugar,gram,weight,0
+68,tablespoon,volume,cane sugar,gram,weight,0
+69,teaspoon,volume,demerara sugar,gram,weight,4.583333333
+70,tablespoon,volume,demerara sugar,gram,weight,13.75
+71,cup,volume,demerara sugar,gram,weight,220
+72,teaspoon,volume,turbinado sugar,gram,weight,3.75
+73,tablespoon,volume,turbinado sugar,gram,weight,11.25
+74,cup,volume,turbinado sugar,gram,weight,180
+75,teaspoon,volume,pearl sugar,gram,weight,0
+76,tablespoon,volume,pearl sugar,gram,weight,0
+77,teaspoon,volume,vegetable oil,gram,weight,4.125
+78,tablespoon,volume,vegetable oil,gram,weight,12.375
+79,cup,volume,vegetable oil,gram,weight,198
+80,teaspoon,volume,corn oil,gram,weight,0
+81,tablespoon,volume,corn oil,gram,weight,0
+82,teaspoon,volume,sesame oil,gram,weight,0
+83,tablespoon,volume,sesame oil,gram,weight,0
+84,teaspoon,volume,coconut oil,gram,weight,4.708333333
+85,tablespoon,volume,coconut oil,gram,weight,14.125
+86,cup,volume,coconut oil,gram,weight,226
+87,teaspoon,volume,garlic oil,gram,weight,4.125
+88,tablespoon,volume,garlic oil,gram,weight,12.375
+89,cup,volume,garlic oil,gram,weight,198
+90,teaspoon,volume,infused oil,gram,weight,4.125
+91,tablespoon,volume,infused oil,gram,weight,12.375
+92,cup,volume,infused oil,gram,weight,198
+93,teaspoon,volume,canola oil,gram,weight,4.125
+94,tablespoon,volume,canola oil,gram,weight,12.375
+95,cup,volume,canola oil,gram,weight,198
+96,teaspoon,volume,mayonnaise,gram,weight,4.708333333
+97,tablespoon,volume,mayonnaise,gram,weight,14.125
+98,cup,volume,mayonnaise,gram,weight,226
+99,teaspoon,volume,sesame seed oil,gram,weight,0
+100,tablespoon,volume,sesame seed oil,gram,weight,0
+101,teaspoon,volume,parmesan cheese,gram,weight,1.875
+102,tablespoon,volume,parmesan cheese,gram,weight,5.625
+103,cup,volume,parmesan cheese,gram,weight,90
+104,teaspoon,volume,provolone cheese,gram,weight,0
+105,tablespoon,volume,provolone cheese,gram,weight,0
+106,teaspoon,volume,cheddar cheese,gram,weight,4.895833333
+107,tablespoon,volume,cheddar cheese,gram,weight,14.6875
+108,cup,volume,cheddar cheese,gram,weight,235
+109,teaspoon,volume,blue cheese,gram,weight,0
+110,tablespoon,volume,blue cheese,gram,weight,0
+111,teaspoon,volume,hard cheese,gram,weight,0
+112,tablespoon,volume,hard cheese,gram,weight,0
+113,teaspoon,volume,monterey jack cheese,gram,weight,0
+114,tablespoon,volume,monterey jack cheese,gram,weight,0
+115,teaspoon,volume,mozzarella cheese,gram,weight,0
+116,tablespoon,volume,mozzarella cheese,gram,weight,0
+117,teaspoon,volume,american cheese,gram,weight,0
+118,tablespoon,volume,american cheese,gram,weight,0
+119,teaspoon,volume,goat cheese,gram,weight,0
+120,tablespoon,volume,goat cheese,gram,weight,0
+121,teaspoon,volume,halloumi cheese,gram,weight,0
+122,tablespoon,volume,halloumi cheese,gram,weight,0
+123,teaspoon,volume,pepper jack cheese,gram,weight,0
+124,tablespoon,volume,pepper jack cheese,gram,weight,0
+125,teaspoon,volume,feta cheese,gram,weight,2.375
+126,tablespoon,volume,feta cheese,gram,weight,7.125
+127,cup,volume,feta cheese,gram,weight,114
+128,teaspoon,volume,pecorino romano cheese,gram,weight,0
+129,tablespoon,volume,pecorino romano cheese,gram,weight,0
+130,teaspoon,volume,swiss cheese,gram,weight,0
+131,tablespoon,volume,swiss cheese,gram,weight,0
+132,teaspoon,volume,cottage cheese,gram,weight,4.6875
+133,tablespoon,volume,cottage cheese,gram,weight,14.0625
+134,cup,volume,cottage cheese,gram,weight,225
+135,teaspoon,volume,cheese,gram,weight,0
+136,tablespoon,volume,cheese,gram,weight,0
+137,teaspoon,volume,gruyere cheese,gram,weight,0
+138,tablespoon,volume,gruyere cheese,gram,weight,0
+139,teaspoon,volume,parmigiano reggiano cheese,gram,weight,0
+140,tablespoon,volume,parmigiano reggiano cheese,gram,weight,0
+141,teaspoon,volume,grana padano cheese,gram,weight,0
+142,tablespoon,volume,grana padano cheese,gram,weight,0
+143,teaspoon,volume,soft cheese,gram,weight,0
+144,tablespoon,volume,soft cheese,gram,weight,0
+145,teaspoon,volume,instant yeast,gram,weight,3
+146,tablespoon,volume,instant yeast,gram,weight,9
+147,cup,volume,instant yeast,gram,weight,144
+148,teaspoon,volume,milk,gram,weight,4.729166667
+149,tablespoon,volume,milk,gram,weight,14.1875
+150,cup,volume,milk,gram,weight,227
+151,teaspoon,volume,honey,gram,weight,7
+152,tablespoon,volume,honey,gram,weight,21
+153,cup,volume,honey,gram,weight,336
+154,teaspoon,volume,baking powder,gram,weight,4
+155,tablespoon,volume,baking powder,gram,weight,12
+156,cup,volume,baking powder,gram,weight,192
+157,teaspoon,volume,baking soda,gram,weight,6
+158,tablespoon,volume,baking soda,gram,weight,18
+159,cup,volume,baking soda,gram,weight,288
+160,teaspoon,volume,brown sugar,gram,weight,4.4375
+161,tablespoon,volume,brown sugar,gram,weight,13.3125
+162,cup,volume,brown sugar,gram,weight,213
+163,teaspoon,volume,butter,gram,weight,4.708333333
+164,tablespoon,volume,butter,gram,weight,14.125
+165,cup,volume,butter,gram,weight,226
+166,teaspoon,volume,buttermilk,gram,weight,4.729166667
+167,tablespoon,volume,buttermilk,gram,weight,14.1875
+168,cup,volume,buttermilk,gram,weight,227
+169,teaspoon,volume,cornstarch,gram,weight,2.333333333
+170,tablespoon,volume,cornstarch,gram,weight,7
+171,cup,volume,cornstarch,gram,weight,112
+172,teaspoon,volume,cream cheese,gram,weight,4.729166667
+173,tablespoon,volume,cream cheese,gram,weight,14.1875
+174,cup,volume,cream cheese,gram,weight,227
+175,teaspoon,volume,flour,gram,weight,2.5
+176,tablespoon,volume,flour,gram,weight,7.5
+177,cup,volume,flour,gram,weight,120
+178,teaspoon,volume,granulated sugar,gram,weight,4.125
+179,tablespoon,volume,granulated sugar,gram,weight,12.375
+180,cup,volume,granulated sugar,gram,weight,198
+181,teaspoon,volume,oil,gram,weight,4.125
+182,tablespoon,volume,oil,gram,weight,12.375
+183,cup,volume,oil,gram,weight,198
+184,teaspoon,volume,salt,gram,weight,2.666666667
+185,tablespoon,volume,salt,gram,weight,8
+186,cup,volume,salt,gram,weight,128
+187,teaspoon,volume,sour cream,gram,weight,4.729166667
+188,tablespoon,volume,sour cream,gram,weight,14.1875
+189,cup,volume,sour cream,gram,weight,227
+190,teaspoon,volume,sugar,gram,weight,4.125
+191,tablespoon,volume,sugar,gram,weight,12.375
+192,cup,volume,sugar,gram,weight,198
+193,teaspoon,volume,water,gram,weight,4.729166667
+194,tablespoon,volume,water,gram,weight,14.1875
+195,cup,volume,water,gram,weight,227
+196,teaspoon,volume,yeast,gram,weight,9
+197,tablespoon,volume,yeast,gram,weight,27
+198,cup,volume,yeast,gram,weight,432
+199,ounce,weight,,gram,weight,28.3495
+200,gram,weight,,gram,weight,1

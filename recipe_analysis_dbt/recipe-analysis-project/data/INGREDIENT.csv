@@ -1,0 +1,81 @@
+INGREDIENT_ID,INGREDIENT_NAME,INGREDIENT_CATEGORY
+1,yeast,leavening
+2,salt,salt
+3,oil,fat
+4,buttermilk,dairy
+5,sour cream,dairy
+6,baking powder,leavening
+7,baking soda,leavening
+8,butter,fat
+9,flour,flour
+10,granulated sugar,sugar
+11,brown sugar,sugar
+12,cornstarch,?
+13,sugar,sugar
+14,baking powder,leavening
+15,cream cheese,dairy
+16,water,water
+17,bread flour,flour
+18,cream cheese,dairy
+19,egg,egg
+20,lemon,citrus
+21,salt and pepper,salt
+22,vanilla extract,flavor
+23,whole wheat flour,flour
+24,flour,flour
+25,cake flour,flour
+26,all purpose flour,flour
+27,rye flour,flour
+28,almond flour,flour
+29,rice flour,flour
+30,cornmeal flour,flour
+31,spelt flour,flour
+32,millet four,flour
+33,oat flour,flour
+34,00 flour,flour
+35,tapioca flour,flour
+36,semolina flour,flour
+37,sorghum flour,flour
+38,potato flour,flour
+39,teff flour,flour
+40,powdered sugar,sugar
+41,cane sugar,sugar
+42,demerara sugar,sugar
+43,sugar,sugar
+44,turbinado sugar,sugar
+45,pearl sugar,sugar
+46,vegetable oil,fat
+47,corn oil,fat
+48,sesame oil,fat
+49,coconut oil,fat
+50,oil,fat
+51,garlic oil,fat
+52,infused oil,fat
+53,olive oil,fat
+54,canola oil,fat
+55,mayonnaise,fat
+56,sesame seed oil,fat
+57,parmesan cheese,dairy
+58,provolone cheese,dairy
+59,cheddar cheese,dairy
+60,cream cheese,dairy
+61,blue cheese,dairy
+62,hard cheese,dairy
+63,monterey jack cheese,dairy
+64,mozzarella cheese,dairy
+65,american cheese,dairy
+66,goat cheese,dairy
+67,halloumi cheese,dairy
+68,pepper jack cheese,dairy
+69,feta cheese,dairy
+70,pecorino romano cheese,dairy
+71,swiss cheese,dairy
+72,cottage cheese,dairy
+73,cheese,dairy
+74,gruyere cheese,dairy
+75,parmigiano reggiano cheese,dairy
+76,grana padano cheese,dairy
+77,soft cheese,dairy
+78,instant yeast,leavening
+79,milk,dairy
+80,honey,sugar

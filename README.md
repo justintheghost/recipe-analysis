@@ -4,6 +4,6 @@ Exploring the underlying structure of recipes from www.seriouseats.com. First us
 
 Project uses:
 * Python BeautifulSoup for webscraping
-* Python crfsuite for natural language processing (NLP)
+* Python python-crfsuite for natural language processing (NLP)
 * dbt for SQL-based data transforms
 * Snowflake for data persistence 
