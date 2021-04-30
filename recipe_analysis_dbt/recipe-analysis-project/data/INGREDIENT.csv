@@ -41,41 +41,40 @@ INGREDIENT_ID,INGREDIENT_NAME,INGREDIENT_CATEGORY
 40,powdered sugar,sugar
 41,cane sugar,sugar
 42,demerara sugar,sugar
-43,sugar,sugar
-44,turbinado sugar,sugar
-45,pearl sugar,sugar
-46,vegetable oil,fat
-47,corn oil,fat
-48,sesame oil,fat
-49,coconut oil,fat
-50,oil,fat
-51,garlic oil,fat
-52,infused oil,fat
-53,olive oil,fat
-54,canola oil,fat
-55,mayonnaise,fat
-56,sesame seed oil,fat
-57,parmesan cheese,dairy
-58,provolone cheese,dairy
-59,cheddar cheese,dairy
-60,cream cheese,dairy
-61,blue cheese,dairy
-62,hard cheese,dairy
-63,monterey jack cheese,dairy
-64,mozzarella cheese,dairy
-65,american cheese,dairy
-66,goat cheese,dairy
-67,halloumi cheese,dairy
-68,pepper jack cheese,dairy
-69,feta cheese,dairy
-70,pecorino romano cheese,dairy
-71,swiss cheese,dairy
-72,cottage cheese,dairy
-73,cheese,dairy
-74,gruyere cheese,dairy
-75,parmigiano reggiano cheese,dairy
-76,grana padano cheese,dairy
-77,soft cheese,dairy
-78,instant yeast,leavening
-79,milk,dairy
-80,honey,sugar
+43,turbinado sugar,sugar
+44,pearl sugar,sugar
+45,vegetable oil,fat
+46,corn oil,fat
+47,sesame oil,fat
+48,coconut oil,fat
+49,oil,fat
+50,garlic oil,fat
+51,infused oil,fat
+52,olive oil,fat
+53,canola oil,fat
+54,mayonnaise,fat
+55,sesame seed oil,fat
+56,parmesan cheese,dairy
+57,provolone cheese,dairy
+58,cheddar cheese,dairy
+59,cream cheese,dairy
+60,blue cheese,dairy
+61,hard cheese,dairy
+62,monterey jack cheese,dairy
+63,mozzarella cheese,dairy
+64,american cheese,dairy
+65,goat cheese,dairy
+66,halloumi cheese,dairy
+67,pepper jack cheese,dairy
+68,feta cheese,dairy
+69,pecorino romano cheese,dairy
+70,swiss cheese,dairy
+71,cottage cheese,dairy
+72,cheese,dairy
+73,gruyere cheese,dairy
+74,parmigiano reggiano cheese,dairy
+75,grana padano cheese,dairy
+76,soft cheese,dairy
+77,instant yeast,leavening
+78,milk,dairy
+79,honey,sugar
