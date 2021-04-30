@@ -9,4 +9,4 @@ Project uses:
 * Snowflake for data persistence 
 
 Architecture:
-![](Architecture Diagram.png)
+![Architecture](Architecture Diagram.png)
