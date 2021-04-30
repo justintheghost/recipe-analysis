@@ -9,4 +9,4 @@ Project uses:
 * Snowflake for data persistence 
 
 Architecture:
-![Architecture](https://github.com/justintheghost/recipe-analysis/blob/main/Architecture Diagram.png?raw=true)
+![Architecture](https://github.com/justintheghost/recipe-analysis/blob/main/ArchitectureDiagram.png?raw=true)
