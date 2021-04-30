@@ -7,3 +7,6 @@ Project uses:
 * Python python-crfsuite for natural language processing (NLP)
 * dbt for SQL-based data transforms
 * Snowflake for data persistence 
+
+Architecture:
+![](Architecture Diagram.png)
